@@ -1,5 +1,5 @@
 import { types as t, flow, getEnv } from 'mobx-state-tree';
-import api from './api';
+import bookApi from './api';
 
 let store = null;
 
@@ -30,13 +30,14 @@ export const BookStore = t
                     title: book.volumeInfo.title,
                     authors: book.volumeInfo.authors,
                     publisher: book.volumeInfo.publisher,
-                    image: book.volumeInfo.imageLinks.smallThumbnail || null
+                    image: book.volumeInfo.imageLinks ?
+                        book.volumeInfo.imageLinks.smallThumbnail : undefined
                 })
             })
         }
 
         const loadBooks = flow(function* loadBooks() {
-            const books = yield api.fetchBooks()
+            const books = yield self.api.fetchBooks()
             updateBooks(books)
         })
 
@@ -45,7 +46,7 @@ export const BookStore = t
         }
     })
 
-export default (api = api) => {
+export default (api = bookApi) => {
     if (store) return store
 
     store = BookStore.create({ books: [] }, { api })
