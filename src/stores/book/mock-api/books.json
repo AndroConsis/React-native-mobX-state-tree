@@ -1,0 +1,801 @@
+{
+    "data": {
+        "kind": "books#volumes",
+        "totalItems": 7676,
+        "items": [
+            {
+                "kind": "books#volume",
+                "id": "jhjREY0loboC",
+                "etag": "z+NNYHO+who",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/jhjREY0loboC",
+                "volumeInfo": {
+                    "title": "NOTES, CRITICAL, ILLUSTRATIVE, AND PRACTICLE. ON THE BOOK OF JOB: WITH A NEW TRANSLATION, AND AN INTRODUCTORY DISSERTATION",
+                    "authors": [
+                        "ALBERT BARNES"
+                    ],
+                    "publishedDate": "1852",
+                    "industryIdentifiers": [
+                        {
+                            "type": "OTHER",
+                            "identifier": "UOMDLP:ajf6406:0002.001"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "printType": "BOOK",
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "1.1.0.0.full.1",
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=jhjREY0loboC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=jhjREY0loboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=jhjREY0loboC&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=jhjREY0loboC&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book-jhjREY0loboC"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FREE",
+                    "isEbook": true,
+                    "buyLink": "https://play.google.com/store/books/details?id=jhjREY0loboC&rdid=book-jhjREY0loboC&rdot=1&source=gbs_api"
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "ALL_PAGES",
+                    "embeddable": true,
+                    "publicDomain": true,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": true,
+                        "downloadLink": "http://books.google.co.in/books/download/NOTES_CRITICAL_ILLUSTRATIVE_AND_PRACTICL.pdf?id=jhjREY0loboC&hl=&output=pdf&sig=ACfU3U39eRS5l7xOWdM1cP-hPopMK3zBYA&source=gbs_api"
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=jhjREY0loboC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                    "quoteSharingAllowed": false
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "GhEXAAAAYAAJ",
+                "etag": "i1nL2k0cFiw",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/GhEXAAAAYAAJ",
+                "volumeInfo": {
+                    "title": "The life, travels and books of Alexander von Humboldt",
+                    "authors": [
+                        "Richard Henry Stoddard"
+                    ],
+                    "publishedDate": "1859",
+                    "industryIdentifiers": [
+                        {
+                            "type": "OTHER",
+                            "identifier": "HARVARD:HN1IYR"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "pageCount": 482,
+                    "printType": "BOOK",
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "full-1.0.0",
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=GhEXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=GhEXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=GhEXAAAAYAAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=GhEXAAAAYAAJ&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book-GhEXAAAAYAAJ"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FREE",
+                    "isEbook": true,
+                    "buyLink": "https://play.google.com/store/books/details?id=GhEXAAAAYAAJ&rdid=book-GhEXAAAAYAAJ&rdot=1&source=gbs_api"
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "ALL_PAGES",
+                    "embeddable": true,
+                    "publicDomain": true,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false,
+                        "downloadLink": "http://books.google.co.in/books/download/The_life_travels_and_books_of_Alexander.epub?id=GhEXAAAAYAAJ&hl=&output=epub&source=gbs_api"
+                    },
+                    "pdf": {
+                        "isAvailable": true,
+                        "downloadLink": "http://books.google.co.in/books/download/The_life_travels_and_books_of_Alexander.pdf?id=GhEXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2YZkGv6hZobFvSpoCXZAxaFVvWRA&source=gbs_api"
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=GhEXAAAAYAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                    "quoteSharingAllowed": false
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "LCkEAAAAQAAJ",
+                "etag": "wRJV6WAKE2Q",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/LCkEAAAAQAAJ",
+                "volumeInfo": {
+                    "title": "The Sunday school teacher",
+                    "authors": [
+                        "National Sunday school union"
+                    ],
+                    "publishedDate": "1872",
+                    "industryIdentifiers": [
+                        {
+                            "type": "OTHER",
+                            "identifier": "OXFORD:555009881"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "printType": "BOOK",
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.1.1.0.full.1",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=LCkEAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=LCkEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=LCkEAAAAQAAJ&pg=PP1&dq=books&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=LCkEAAAAQAAJ&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book-LCkEAAAAQAAJ"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FREE",
+                    "isEbook": true,
+                    "buyLink": "https://play.google.com/store/books/details?id=LCkEAAAAQAAJ&rdid=book-LCkEAAAAQAAJ&rdot=1&source=gbs_api"
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "ALL_PAGES",
+                    "embeddable": true,
+                    "publicDomain": true,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": true,
+                        "downloadLink": "http://books.google.co.in/books/download/The_Sunday_school_teacher.pdf?id=LCkEAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1Py0qOO7mFBKjDN_3YtCe4J1aJEg&source=gbs_api"
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=LCkEAAAAQAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                    "quoteSharingAllowed": false
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "0V9CAQAAMAAJ",
+                "etag": "kalOJyj8Wrc",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/0V9CAQAAMAAJ",
+                "volumeInfo": {
+                    "title": "The Miscellaneous Botanical Works of Robert Brown",
+                    "authors": [
+                        "Robert Brown"
+                    ],
+                    "publishedDate": "1866",
+                    "industryIdentifiers": [
+                        {
+                            "type": "OTHER",
+                            "identifier": "UIUC:30112009703767"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "pageCount": 38,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Botany"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.0.1.0.full.1",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=0V9CAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=0V9CAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=0V9CAQAAMAAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=0V9CAQAAMAAJ&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book-0V9CAQAAMAAJ"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FREE",
+                    "isEbook": true,
+                    "buyLink": "https://play.google.com/store/books/details?id=0V9CAQAAMAAJ&rdid=book-0V9CAQAAMAAJ&rdot=1&source=gbs_api"
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "ALL_PAGES",
+                    "embeddable": true,
+                    "publicDomain": true,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=0V9CAQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                    "quoteSharingAllowed": false
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "-ZIinZBE2BoC",
+                "etag": "1jZh5K/Wi/8",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/-ZIinZBE2BoC",
+                "volumeInfo": {
+                    "title": "Romantic Weekends in Virginia, Washington DC and Maryland",
+                    "authors": [
+                        "Norman Renouf",
+                        "Kathy Renouf"
+                    ],
+                    "publisher": "Hunter Publishing, Inc",
+                    "publishedDate": "1999",
+                    "description": "This guide to romantic weekends provides information on cosy cabins, luxury hotels and historic inns in Virginia, Maryland and Washington, DC.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9781556508356"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "1556508352"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": true,
+                        "image": true
+                    },
+                    "pageCount": 408,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Travel"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.0.1.0.preview.3",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=-ZIinZBE2BoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=-ZIinZBE2BoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=-ZIinZBE2BoC&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=-ZIinZBE2BoC&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book--ZIinZBE2BoC"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FOR_SALE",
+                    "isEbook": true,
+                    "listPrice": {
+                        "amount": 733.69,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amount": 366.84,
+                        "currencyCode": "INR"
+                    },
+                    "buyLink": "https://play.google.com/store/books/details?id=-ZIinZBE2BoC&rdid=book--ZIinZBE2BoC&rdot=1&source=gbs_api",
+                    "offers": [
+                        {
+                            "finskyOfferType": 1,
+                            "listPrice": {
+                                "amountInMicros": 733690000,
+                                "currencyCode": "INR"
+                            },
+                            "retailPrice": {
+                                "amountInMicros": 366840000,
+                                "currencyCode": "INR"
+                            }
+                        }
+                    ]
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": true
+                    },
+                    "pdf": {
+                        "isAvailable": true
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=-ZIinZBE2BoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                },
+                "searchInfo": {
+                    "textSnippet": "This guide to romantic weekends provides information on cosy cabins, luxury hotels and historic inns in Virginia, Maryland and Washington, DC."
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "lT4-bs4yCB8C",
+                "etag": "TjGhGjUjfJc",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/lT4-bs4yCB8C",
+                "volumeInfo": {
+                    "title": "Second Grade Big Book (ENHANCED eBook)",
+                    "authors": [
+                        "Lisa Marty"
+                    ],
+                    "publisher": "Lorenz Educational Press",
+                    "publishedDate": "2005-09-01",
+                    "description": "The Second Grade Big Book provides easy-to-use reproducible activities in math, language arts, science, social studies, writing, health, and art. Students learn through a multitude of fun formats, including crossword puzzles, word searches, dot-to-dots, secret code, hidden pictures, and experiments.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9781429110211"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "142911021X"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "pageCount": 176,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Education"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=lT4-bs4yCB8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=lT4-bs4yCB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=lT4-bs4yCB8C&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=lT4-bs4yCB8C&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book-lT4-bs4yCB8C"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FOR_SALE",
+                    "isEbook": true,
+                    "listPrice": {
+                        "amount": 1296.8,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amount": 648.4,
+                        "currencyCode": "INR"
+                    },
+                    "buyLink": "https://play.google.com/store/books/details?id=lT4-bs4yCB8C&rdid=book-lT4-bs4yCB8C&rdot=1&source=gbs_api",
+                    "offers": [
+                        {
+                            "finskyOfferType": 1,
+                            "listPrice": {
+                                "amountInMicros": 1296800000,
+                                "currencyCode": "INR"
+                            },
+                            "retailPrice": {
+                                "amountInMicros": 648400000,
+                                "currencyCode": "INR"
+                            }
+                        }
+                    ]
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": true,
+                        "acsTokenLink": "http://books.google.co.in/books/download/Second_Grade_Big_Book_ENHANCED_eBook-sample-pdf.acsm?id=lT4-bs4yCB8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=lT4-bs4yCB8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                },
+                "searchInfo": {
+                    "textSnippet": "The Second Grade Big Book provides easy-to-use reproducible activities in math, language arts, science, social studies, writing, health, and art."
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "OzQ0AQAAMAAJ",
+                "etag": "ydvbvK0KtxM",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/OzQ0AQAAMAAJ",
+                "volumeInfo": {
+                    "title": "Providence River and Harbor Maintenance Dredging Project",
+                    "subtitle": "Environmental Impact Statement",
+                    "publishedDate": "2001",
+                    "industryIdentifiers": [
+                        {
+                            "type": "OTHER",
+                            "identifier": "NWU:35556030991475"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "pageCount": 13,
+                    "printType": "BOOK",
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "full-1.0.0",
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=OzQ0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=OzQ0AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=OzQ0AQAAMAAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=OzQ0AQAAMAAJ&source=gbs_api",
+                    "canonicalVolumeLink": "https://market.android.com/details?id=book-OzQ0AQAAMAAJ"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "FREE",
+                    "isEbook": true,
+                    "buyLink": "https://play.google.com/store/books/details?id=OzQ0AQAAMAAJ&rdid=book-OzQ0AQAAMAAJ&rdot=1&source=gbs_api"
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "ALL_PAGES",
+                    "embeddable": true,
+                    "publicDomain": true,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=OzQ0AQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                    "quoteSharingAllowed": false
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "Zc5QAgAAQBAJ",
+                "etag": "qxugNutISW8",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/Zc5QAgAAQBAJ",
+                "volumeInfo": {
+                    "title": "Treason",
+                    "authors": [
+                        "Jo Macauley"
+                    ],
+                    "publisher": "Capstone",
+                    "publishedDate": "2014",
+                    "description": "It is 1664 and young Beth Johnson is an actress and a spy in training--so when she uncovers a plot to kill King Charles II she must find a way to alert her spymaster and prevent the assassination to prove herself.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9781623700522"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "1623700523"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "pageCount": 224,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Juvenile Fiction"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=Zc5QAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=Zc5QAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=Zc5QAgAAQBAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                    "infoLink": "http://books.google.co.in/books?id=Zc5QAgAAQBAJ&dq=books&hl=&as_pt=BOOKS&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Treason.html?hl=&id=Zc5QAgAAQBAJ"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=Zc5QAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                },
+                "searchInfo": {
+                    "textSnippet": "It is 1664 and young Beth Johnson is an actress and a spy in training--so when she uncovers a plot to kill King Charles II she must find a way to alert her spymaster and prevent the assassination to prove herself."
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "vy1cg8zrt_AC",
+                "etag": "o+8WHubYj8Y",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/vy1cg8zrt_AC",
+                "volumeInfo": {
+                    "title": "Katie and the Mustang",
+                    "authors": [
+                        "Kathleen Duey"
+                    ],
+                    "publisher": "Puffin",
+                    "publishedDate": "2004",
+                    "description": "Orphaned nine-year-old Katie Rose is sent to live with the Stevenses, and her backbreaking toil is eased by the relationship she develops with a mustang Mr. Stevens brings home.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "0142400904"
+                        },
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9780142400906"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": false
+                    },
+                    "pageCount": 135,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Juvenile Fiction"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.0.1.0.preview.0",
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=vy1cg8zrt_AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=vy1cg8zrt_AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=vy1cg8zrt_AC&q=books&dq=books&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                    "infoLink": "http://books.google.co.in/books?id=vy1cg8zrt_AC&dq=books&hl=&as_pt=BOOKS&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Katie_and_the_Mustang.html?hl=&id=vy1cg8zrt_AC"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "NO_PAGES",
+                    "embeddable": false,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=vy1cg8zrt_AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "NONE",
+                    "quoteSharingAllowed": false
+                },
+                "searchInfo": {
+                    "textSnippet": "Orphaned nine-year-old Katie Rose is sent to live with the Stevenses, and her backbreaking toil is eased by the relationship she develops with a mustang Mr. Stevens brings home."
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "FY5gI7SGU20C",
+                "etag": "Y439u1vbWQE",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/FY5gI7SGU20C",
+                "volumeInfo": {
+                    "title": "Transfer of Power in India",
+                    "authors": [
+                        "V.P. Menon"
+                    ],
+                    "publisher": "Orient Blackswan",
+                    "publishedDate": "1997-01-01",
+                    "description": "The author recounts in detail the events that occurred from September 1939 to August 1947, during the final stages of India s bid for freedom, and how power was actually transferred.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "8125008845"
+                        },
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9788125008842"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": true
+                    },
+                    "pageCount": 543,
+                    "printType": "BOOK",
+                    "categories": [
+                        "India"
+                    ],
+                    "averageRating": 4,
+                    "ratingsCount": 2,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.0.1.0.preview.1",
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=FY5gI7SGU20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=FY5gI7SGU20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.co.in/books?id=FY5gI7SGU20C&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                    "infoLink": "http://books.google.co.in/books?id=FY5gI7SGU20C&dq=books&hl=&as_pt=BOOKS&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Transfer_of_Power_in_India.html?hl=&id=FY5gI7SGU20C"
+                },
+                "saleInfo": {
+                    "country": "IN",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                },
+                "accessInfo": {
+                    "country": "IN",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                        "isAvailable": false
+                    },
+                    "pdf": {
+                        "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=FY5gI7SGU20C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                },
+                "searchInfo": {
+                    "textSnippet": "The author recounts in detail the events that occurred from September 1939 to August 1947, during the final stages of India s bid for freedom, and how power was actually transferred."
+                }
+            }
+        ]
+    },
+    "status": 200,
+    "headers": {
+        "server": "GSE",
+        "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,44,43,39\"",
+        "etag": "\"IUREzboS_XZycecz4xfru1ipYfo/lI6o79W6ajzSC12Be4UOIafgDvg\"",
+        "content-encoding": "gzip",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "application/json; charset=UTF-8",
+        "vary": "Origin, X-Origin",
+        "expires": "Fri, 08 Mar 2019 08:36:25 GMT",
+        "cache-control": "private, max-age=0, must-revalidate, no-transform",
+        "date": "Fri, 08 Mar 2019 08:36:25 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "content-length": "3694"
+    },
+    "config": {
+        "transformRequest": {},
+        "transformResponse": {},
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "method": "get",
+        "url": "https://www.googleapis.com/books/v1/volumes?q=books&printType=books&key=AIzaSyDmT0oJlvOxKns_tSfjkbX6hEaJ7vmFerc"
+    },
+    "request": {
+        "UNSENT": 0,
+        "OPENED": 1,
+        "HEADERS_RECEIVED": 2,
+        "LOADING": 3,
+        "DONE": 4,
+        "readyState": 4,
+        "status": 200,
+        "timeout": 0,
+        "withCredentials": true,
+        "upload": {},
+        "_aborted": false,
+        "_hasError": false,
+        "_method": "GET",
+        "_response": "{\n \"kind\": \"books#volumes\",\n \"totalItems\": 7676,\n \"items\": [\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"jhjREY0loboC\",\n   \"etag\": \"z+NNYHO+who\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/jhjREY0loboC\",\n   \"volumeInfo\": {\n    \"title\": \"NOTES, CRITICAL, ILLUSTRATIVE, AND PRACTICLE. ON THE BOOK OF JOB: WITH A NEW TRANSLATION, AND AN INTRODUCTORY DISSERTATION\",\n    \"authors\": [\n     \"ALBERT BARNES\"\n    ],\n    \"publishedDate\": \"1852\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"OTHER\",\n      \"identifier\": \"UOMDLP:ajf6406:0002.001\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"printType\": \"BOOK\",\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"1.1.0.0.full.1\",\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=jhjREY0loboC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=jhjREY0loboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=jhjREY0loboC&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=1&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=jhjREY0loboC&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book-jhjREY0loboC\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FREE\",\n    \"isEbook\": true,\n    \"buyLink\": \"https://play.google.com/store/books/details?id=jhjREY0loboC&rdid=book-jhjREY0loboC&rdot=1&source=gbs_api\"\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"ALL_PAGES\",\n    \"embeddable\": true,\n    \"publicDomain\": true,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": true,\n     \"downloadLink\": \"http://books.google.co.in/books/download/NOTES_CRITICAL_ILLUSTRATIVE_AND_PRACTICL.pdf?id=jhjREY0loboC&hl=&output=pdf&sig=ACfU3U39eRS5l7xOWdM1cP-hPopMK3zBYA&source=gbs_api\"\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=jhjREY0loboC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"FULL_PUBLIC_DOMAIN\",\n    \"quoteSharingAllowed\": false\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"GhEXAAAAYAAJ\",\n   \"etag\": \"i1nL2k0cFiw\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/GhEXAAAAYAAJ\",\n   \"volumeInfo\": {\n    \"title\": \"The life, travels and books of Alexander von Humboldt\",\n    \"authors\": [\n     \"Richard Henry Stoddard\"\n    ],\n    \"publishedDate\": \"1859\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"OTHER\",\n      \"identifier\": \"HARVARD:HN1IYR\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"pageCount\": 482,\n    \"printType\": \"BOOK\",\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"full-1.0.0\",\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=GhEXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=GhEXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=GhEXAAAAYAAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=2&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=GhEXAAAAYAAJ&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book-GhEXAAAAYAAJ\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FREE\",\n    \"isEbook\": true,\n    \"buyLink\": \"https://play.google.com/store/books/details?id=GhEXAAAAYAAJ&rdid=book-GhEXAAAAYAAJ&rdot=1&source=gbs_api\"\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"ALL_PAGES\",\n    \"embeddable\": true,\n    \"publicDomain\": true,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false,\n     \"downloadLink\": \"http://books.google.co.in/books/download/The_life_travels_and_books_of_Alexander.epub?id=GhEXAAAAYAAJ&hl=&output=epub&source=gbs_api\"\n    },\n    \"pdf\": {\n     \"isAvailable\": true,\n     \"downloadLink\": \"http://books.google.co.in/books/download/The_life_travels_and_books_of_Alexander.pdf?id=GhEXAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2YZkGv6hZobFvSpoCXZAxaFVvWRA&source=gbs_api\"\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=GhEXAAAAYAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"FULL_PUBLIC_DOMAIN\",\n    \"quoteSharingAllowed\": false\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"LCkEAAAAQAAJ\",\n   \"etag\": \"wRJV6WAKE2Q\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/LCkEAAAAQAAJ\",\n   \"volumeInfo\": {\n    \"title\": \"The Sunday school teacher\",\n    \"authors\": [\n     \"National Sunday school union\"\n    ],\n    \"publishedDate\": \"1872\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"OTHER\",\n      \"identifier\": \"OXFORD:555009881\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"printType\": \"BOOK\",\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"0.1.1.0.full.1\",\n    \"panelizationSummary\": {\n     \"containsEpubBubbles\": false,\n     \"containsImageBubbles\": false\n    },\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=LCkEAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=LCkEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=LCkEAAAAQAAJ&pg=PP1&dq=books&hl=&as_pt=BOOKS&cd=3&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=LCkEAAAAQAAJ&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book-LCkEAAAAQAAJ\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FREE\",\n    \"isEbook\": true,\n    \"buyLink\": \"https://play.google.com/store/books/details?id=LCkEAAAAQAAJ&rdid=book-LCkEAAAAQAAJ&rdot=1&source=gbs_api\"\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"ALL_PAGES\",\n    \"embeddable\": true,\n    \"publicDomain\": true,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": true,\n     \"downloadLink\": \"http://books.google.co.in/books/download/The_Sunday_school_teacher.pdf?id=LCkEAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1Py0qOO7mFBKjDN_3YtCe4J1aJEg&source=gbs_api\"\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=LCkEAAAAQAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"FULL_PUBLIC_DOMAIN\",\n    \"quoteSharingAllowed\": false\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"0V9CAQAAMAAJ\",\n   \"etag\": \"kalOJyj8Wrc\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/0V9CAQAAMAAJ\",\n   \"volumeInfo\": {\n    \"title\": \"The Miscellaneous Botanical Works of Robert Brown\",\n    \"authors\": [\n     \"Robert Brown\"\n    ],\n    \"publishedDate\": \"1866\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"OTHER\",\n      \"identifier\": \"UIUC:30112009703767\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"pageCount\": 38,\n    \"printType\": \"BOOK\",\n    \"categories\": [\n     \"Botany\"\n    ],\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"0.0.1.0.full.1\",\n    \"panelizationSummary\": {\n     \"containsEpubBubbles\": false,\n     \"containsImageBubbles\": false\n    },\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=0V9CAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=0V9CAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=0V9CAQAAMAAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=4&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=0V9CAQAAMAAJ&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book-0V9CAQAAMAAJ\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FREE\",\n    \"isEbook\": true,\n    \"buyLink\": \"https://play.google.com/store/books/details?id=0V9CAQAAMAAJ&rdid=book-0V9CAQAAMAAJ&rdot=1&source=gbs_api\"\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"ALL_PAGES\",\n    \"embeddable\": true,\n    \"publicDomain\": true,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": false\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=0V9CAQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"FULL_PUBLIC_DOMAIN\",\n    \"quoteSharingAllowed\": false\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"-ZIinZBE2BoC\",\n   \"etag\": \"1jZh5K/Wi/8\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/-ZIinZBE2BoC\",\n   \"volumeInfo\": {\n    \"title\": \"Romantic Weekends in Virginia, Washington DC and Maryland\",\n    \"authors\": [\n     \"Norman Renouf\",\n     \"Kathy Renouf\"\n    ],\n    \"publisher\": \"Hunter Publishing, Inc\",\n    \"publishedDate\": \"1999\",\n    \"description\": \"This guide to romantic weekends provides information on cosy cabins, luxury hotels and historic inns in Virginia, Maryland and Washington, DC.\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"ISBN_13\",\n      \"identifier\": \"9781556508356\"\n     },\n     {\n      \"type\": \"ISBN_10\",\n      \"identifier\": \"1556508352\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": true,\n     \"image\": true\n    },\n    \"pageCount\": 408,\n    \"printType\": \"BOOK\",\n    \"categories\": [\n     \"Travel\"\n    ],\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"0.0.1.0.preview.3\",\n    \"panelizationSummary\": {\n     \"containsEpubBubbles\": false,\n     \"containsImageBubbles\": false\n    },\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=-ZIinZBE2BoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=-ZIinZBE2BoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=-ZIinZBE2BoC&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=5&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=-ZIinZBE2BoC&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book--ZIinZBE2BoC\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FOR_SALE\",\n    \"isEbook\": true,\n    \"listPrice\": {\n     \"amount\": 733.69,\n     \"currencyCode\": \"INR\"\n    },\n    \"retailPrice\": {\n     \"amount\": 366.84,\n     \"currencyCode\": \"INR\"\n    },\n    \"buyLink\": \"https://play.google.com/store/books/details?id=-ZIinZBE2BoC&rdid=book--ZIinZBE2BoC&rdot=1&source=gbs_api\",\n    \"offers\": [\n     {\n      \"finskyOfferType\": 1,\n      \"listPrice\": {\n       \"amountInMicros\": 7.3369E8,\n       \"currencyCode\": \"INR\"\n      },\n      \"retailPrice\": {\n       \"amountInMicros\": 3.6684E8,\n       \"currencyCode\": \"INR\"\n      }\n     }\n    ]\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"PARTIAL\",\n    \"embeddable\": true,\n    \"publicDomain\": false,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": true\n    },\n    \"pdf\": {\n     \"isAvailable\": true\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=-ZIinZBE2BoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"SAMPLE\",\n    \"quoteSharingAllowed\": false\n   },\n   \"searchInfo\": {\n    \"textSnippet\": \"This guide to romantic weekends provides information on cosy cabins, luxury hotels and historic inns in Virginia, Maryland and Washington, DC.\"\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"lT4-bs4yCB8C\",\n   \"etag\": \"TjGhGjUjfJc\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/lT4-bs4yCB8C\",\n   \"volumeInfo\": {\n    \"title\": \"Second Grade Big Book (ENHANCED eBook)\",\n    \"authors\": [\n     \"Lisa Marty\"\n    ],\n    \"publisher\": \"Lorenz Educational Press\",\n    \"publishedDate\": \"2005-09-01\",\n    \"description\": \"The Second Grade Big Book provides easy-to-use reproducible activities in math, language arts, science, social studies, writing, health, and art. Students learn through a multitude of fun formats, including crossword puzzles, word searches, dot-to-dots, secret code, hidden pictures, and experiments.\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"ISBN_13\",\n      \"identifier\": \"9781429110211\"\n     },\n     {\n      \"type\": \"ISBN_10\",\n      \"identifier\": \"142911021X\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"pageCount\": 176,\n    \"printType\": \"BOOK\",\n    \"categories\": [\n     \"Education\"\n    ],\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"preview-1.0.0\",\n    \"panelizationSummary\": {\n     \"containsEpubBubbles\": false,\n     \"containsImageBubbles\": false\n    },\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=lT4-bs4yCB8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=lT4-bs4yCB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=lT4-bs4yCB8C&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=6&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=lT4-bs4yCB8C&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book-lT4-bs4yCB8C\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FOR_SALE\",\n    \"isEbook\": true,\n    \"listPrice\": {\n     \"amount\": 1296.8,\n     \"currencyCode\": \"INR\"\n    },\n    \"retailPrice\": {\n     \"amount\": 648.4,\n     \"currencyCode\": \"INR\"\n    },\n    \"buyLink\": \"https://play.google.com/store/books/details?id=lT4-bs4yCB8C&rdid=book-lT4-bs4yCB8C&rdot=1&source=gbs_api\",\n    \"offers\": [\n     {\n      \"finskyOfferType\": 1,\n      \"listPrice\": {\n       \"amountInMicros\": 1.2968E9,\n       \"currencyCode\": \"INR\"\n      },\n      \"retailPrice\": {\n       \"amountInMicros\": 6.484E8,\n       \"currencyCode\": \"INR\"\n      }\n     }\n    ]\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"PARTIAL\",\n    \"embeddable\": true,\n    \"publicDomain\": false,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": true,\n     \"acsTokenLink\": \"http://books.google.co.in/books/download/Second_Grade_Big_Book_ENHANCED_eBook-sample-pdf.acsm?id=lT4-bs4yCB8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api\"\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=lT4-bs4yCB8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"SAMPLE\",\n    \"quoteSharingAllowed\": false\n   },\n   \"searchInfo\": {\n    \"textSnippet\": \"The Second Grade Big Book provides easy-to-use reproducible activities in math, language arts, science, social studies, writing, health, and art.\"\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"OzQ0AQAAMAAJ\",\n   \"etag\": \"ydvbvK0KtxM\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/OzQ0AQAAMAAJ\",\n   \"volumeInfo\": {\n    \"title\": \"Providence River and Harbor Maintenance Dredging Project\",\n    \"subtitle\": \"Environmental Impact Statement\",\n    \"publishedDate\": \"2001\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"OTHER\",\n      \"identifier\": \"NWU:35556030991475\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"pageCount\": 13,\n    \"printType\": \"BOOK\",\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"full-1.0.0\",\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=OzQ0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=OzQ0AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=OzQ0AQAAMAAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=7&source=gbs_api\",\n    \"infoLink\": \"https://play.google.com/store/books/details?id=OzQ0AQAAMAAJ&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://market.android.com/details?id=book-OzQ0AQAAMAAJ\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"FREE\",\n    \"isEbook\": true,\n    \"buyLink\": \"https://play.google.com/store/books/details?id=OzQ0AQAAMAAJ&rdid=book-OzQ0AQAAMAAJ&rdot=1&source=gbs_api\"\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"ALL_PAGES\",\n    \"embeddable\": true,\n    \"publicDomain\": true,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": false\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=OzQ0AQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"FULL_PUBLIC_DOMAIN\",\n    \"quoteSharingAllowed\": false\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"Zc5QAgAAQBAJ\",\n   \"etag\": \"qxugNutISW8\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/Zc5QAgAAQBAJ\",\n   \"volumeInfo\": {\n    \"title\": \"Treason\",\n    \"authors\": [\n     \"Jo Macauley\"\n    ],\n    \"publisher\": \"Capstone\",\n    \"publishedDate\": \"2014\",\n    \"description\": \"It is 1664 and young Beth Johnson is an actress and a spy in training--so when she uncovers a plot to kill King Charles II she must find a way to alert her spymaster and prevent the assassination to prove herself.\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"ISBN_13\",\n      \"identifier\": \"9781623700522\"\n     },\n     {\n      \"type\": \"ISBN_10\",\n      \"identifier\": \"1623700523\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"pageCount\": 224,\n    \"printType\": \"BOOK\",\n    \"categories\": [\n     \"Juvenile Fiction\"\n    ],\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"preview-1.0.0\",\n    \"panelizationSummary\": {\n     \"containsEpubBubbles\": false,\n     \"containsImageBubbles\": false\n    },\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=Zc5QAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=Zc5QAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=Zc5QAgAAQBAJ&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=8&source=gbs_api\",\n    \"infoLink\": \"http://books.google.co.in/books?id=Zc5QAgAAQBAJ&dq=books&hl=&as_pt=BOOKS&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://books.google.com/books/about/Treason.html?hl=&id=Zc5QAgAAQBAJ\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"NOT_FOR_SALE\",\n    \"isEbook\": false\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"PARTIAL\",\n    \"embeddable\": true,\n    \"publicDomain\": false,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": false\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=Zc5QAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"SAMPLE\",\n    \"quoteSharingAllowed\": false\n   },\n   \"searchInfo\": {\n    \"textSnippet\": \"It is 1664 and young Beth Johnson is an actress and a spy in training--so when she uncovers a plot to kill King Charles II she must find a way to alert her spymaster and prevent the assassination to prove herself.\"\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"vy1cg8zrt_AC\",\n   \"etag\": \"o+8WHubYj8Y\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/vy1cg8zrt_AC\",\n   \"volumeInfo\": {\n    \"title\": \"Katie and the Mustang\",\n    \"authors\": [\n     \"Kathleen Duey\"\n    ],\n    \"publisher\": \"Puffin\",\n    \"publishedDate\": \"2004\",\n    \"description\": \"Orphaned nine-year-old Katie Rose is sent to live with the Stevenses, and her backbreaking toil is eased by the relationship she develops with a mustang Mr. Stevens brings home.\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"ISBN_10\",\n      \"identifier\": \"0142400904\"\n     },\n     {\n      \"type\": \"ISBN_13\",\n      \"identifier\": \"9780142400906\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": false\n    },\n    \"pageCount\": 135,\n    \"printType\": \"BOOK\",\n    \"categories\": [\n     \"Juvenile Fiction\"\n    ],\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"0.0.1.0.preview.0\",\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=vy1cg8zrt_AC&printsec=frontcover&img=1&zoom=5&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=vy1cg8zrt_AC&printsec=frontcover&img=1&zoom=1&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=vy1cg8zrt_AC&q=books&dq=books&hl=&as_pt=BOOKS&cd=9&source=gbs_api\",\n    \"infoLink\": \"http://books.google.co.in/books?id=vy1cg8zrt_AC&dq=books&hl=&as_pt=BOOKS&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://books.google.com/books/about/Katie_and_the_Mustang.html?hl=&id=vy1cg8zrt_AC\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"NOT_FOR_SALE\",\n    \"isEbook\": false\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"NO_PAGES\",\n    \"embeddable\": false,\n    \"publicDomain\": false,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": false\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=vy1cg8zrt_AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"NONE\",\n    \"quoteSharingAllowed\": false\n   },\n   \"searchInfo\": {\n    \"textSnippet\": \"Orphaned nine-year-old Katie Rose is sent to live with the Stevenses, and her backbreaking toil is eased by the relationship she develops with a mustang Mr. Stevens brings home.\"\n   }\n  },\n  {\n   \"kind\": \"books#volume\",\n   \"id\": \"FY5gI7SGU20C\",\n   \"etag\": \"Y439u1vbWQE\",\n   \"selfLink\": \"https://www.googleapis.com/books/v1/volumes/FY5gI7SGU20C\",\n   \"volumeInfo\": {\n    \"title\": \"Transfer of Power in India\",\n    \"authors\": [\n     \"V.P. Menon\"\n    ],\n    \"publisher\": \"Orient Blackswan\",\n    \"publishedDate\": \"1997-01-01\",\n    \"description\": \"The author recounts in detail the events that occurred from September 1939 to August 1947, during the final stages of India s bid for freedom, and how power was actually transferred.\",\n    \"industryIdentifiers\": [\n     {\n      \"type\": \"ISBN_10\",\n      \"identifier\": \"8125008845\"\n     },\n     {\n      \"type\": \"ISBN_13\",\n      \"identifier\": \"9788125008842\"\n     }\n    ],\n    \"readingModes\": {\n     \"text\": false,\n     \"image\": true\n    },\n    \"pageCount\": 543,\n    \"printType\": \"BOOK\",\n    \"categories\": [\n     \"India\"\n    ],\n    \"averageRating\": 4.0,\n    \"ratingsCount\": 2,\n    \"maturityRating\": \"NOT_MATURE\",\n    \"allowAnonLogging\": false,\n    \"contentVersion\": \"0.0.1.0.preview.1\",\n    \"imageLinks\": {\n     \"smallThumbnail\": \"http://books.google.com/books/content?id=FY5gI7SGU20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api\",\n     \"thumbnail\": \"http://books.google.com/books/content?id=FY5gI7SGU20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\"\n    },\n    \"language\": \"en\",\n    \"previewLink\": \"http://books.google.co.in/books?id=FY5gI7SGU20C&printsec=frontcover&dq=books&hl=&as_pt=BOOKS&cd=10&source=gbs_api\",\n    \"infoLink\": \"http://books.google.co.in/books?id=FY5gI7SGU20C&dq=books&hl=&as_pt=BOOKS&source=gbs_api\",\n    \"canonicalVolumeLink\": \"https://books.google.com/books/about/Transfer_of_Power_in_India.html?hl=&id=FY5gI7SGU20C\"\n   },\n   \"saleInfo\": {\n    \"country\": \"IN\",\n    \"saleability\": \"NOT_FOR_SALE\",\n    \"isEbook\": false\n   },\n   \"accessInfo\": {\n    \"country\": \"IN\",\n    \"viewability\": \"PARTIAL\",\n    \"embeddable\": true,\n    \"publicDomain\": false,\n    \"textToSpeechPermission\": \"ALLOWED\",\n    \"epub\": {\n     \"isAvailable\": false\n    },\n    \"pdf\": {\n     \"isAvailable\": false\n    },\n    \"webReaderLink\": \"http://play.google.com/books/reader?id=FY5gI7SGU20C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api\",\n    \"accessViewStatus\": \"SAMPLE\",\n    \"quoteSharingAllowed\": false\n   },\n   \"searchInfo\": {\n    \"textSnippet\": \"The author recounts in detail the events that occurred from September 1939 to August 1947, during the final stages of India s bid for freedom, and how power was actually transferred.\"\n   }\n  }\n ]\n}\n",
+        "_url": "https://www.googleapis.com/books/v1/volumes?q=books&printType=books&key=AIzaSyDmT0oJlvOxKns_tSfjkbX6hEaJ7vmFerc",
+        "_timedOut": false,
+        "_trackingName": "unknown",
+        "_incrementalEvents": false,
+        "responseHeaders": {
+            "Server": "GSE",
+            "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,44,43,39\"",
+            "Etag": "\"IUREzboS_XZycecz4xfru1ipYfo/lI6o79W6ajzSC12Be4UOIafgDvg\"",
+            "Content-Encoding": "gzip",
+            "x-xss-protection": "1; mode=block",
+            "Content-Type": "application/json; charset=UTF-8",
+            "Vary": "Origin, X-Origin",
+            "Expires": "Fri, 08 Mar 2019 08:36:25 GMT",
+            "Cache-Control": "private, max-age=0, must-revalidate, no-transform",
+            "Date": "Fri, 08 Mar 2019 08:36:25 GMT",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Length": "3694"
+        },
+        "_requestId": null,
+        "_headers": {
+            "accept": "application/json, text/plain, */*"
+        },
+        "_responseType": "",
+        "_sent": true,
+        "_lowerCaseResponseHeaders": {
+            "server": "GSE",
+            "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,44,43,39\"",
+            "etag": "\"IUREzboS_XZycecz4xfru1ipYfo/lI6o79W6ajzSC12Be4UOIafgDvg\"",
+            "content-encoding": "gzip",
+            "x-xss-protection": "1; mode=block",
+            "content-type": "application/json; charset=UTF-8",
+            "vary": "Origin, X-Origin",
+            "expires": "Fri, 08 Mar 2019 08:36:25 GMT",
+            "cache-control": "private, max-age=0, must-revalidate, no-transform",
+            "date": "Fri, 08 Mar 2019 08:36:25 GMT",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "SAMEORIGIN",
+            "content-length": "3694"
+        },
+        "_subscriptions": [],
+        "responseURL": "https://www.googleapis.com/books/v1/volumes?q=books&printType=books&key=AIzaSyDmT0oJlvOxKns_tSfjkbX6hEaJ7vmFerc"
+    }
+}

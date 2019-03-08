@@ -32,6 +32,7 @@
     "react-test-renderer": "16.6.3"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "setupFilesAfterEnv": ["<rootDir>/jestSetup.js"]
   }
 }
