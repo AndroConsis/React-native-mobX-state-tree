@@ -12,7 +12,6 @@ class BookListView extends Component {
     }
 
     render() {
-        console.log(this.store.books.toJS());
         return <BookList books={this.store.books} />
     }
 }
